@@ -6,3 +6,4 @@ So in this project we will go step by step in working with dna starting with ext
 Then in #part2 we will modify to get the gene with unknown start and stop codon and to work with dna that is either uppercase letters or lowercase.
 In #find all stop codons we will work on three of the stop codons instead of just one.
 And then we will work on all the information on genes from dna as the real problem we want to solve.
+We will also work with the storageresources and how to use them to ease and make our code more acuurate with large data.
